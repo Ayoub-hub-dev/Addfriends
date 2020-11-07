@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+#div{
+    width: 500px;
+    height:500px;
+    border:1px solid #000;
+    padding: 10px;
+}
+#One{
+    width: 400px;
+    height:300px;
+    margin:20px auto;
+    border:1px solid red;
+}
