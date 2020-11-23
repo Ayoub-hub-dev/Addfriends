@@ -10,7 +10,13 @@
 }
 #One{
     width: 400px;
-    height:300px;
+    height:200px;
     margin:20px auto;
     border:1px solid red;
+}
+#Two{
+    width: 400px;
+    height: 150px;
+    margin: 0 auto;
+    border:1px solid green;
 }
